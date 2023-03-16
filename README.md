@@ -1,8 +1,10 @@
 # 💫 About Me:
 🤖 I’m currently working on Shell Scripting.<br>🤝 I’m looking for help with args and special characters.<br>🌱 I’m currently learning Bash, C#.<br>🕔 I used to code skript with its plugins.
 
+# 🔧 Current Project:
+### [practice-bash-scripts](https://github.com/completepsychopath/practice-bash-scripts)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/complete-psychopath) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCFRGvO6xMqrUoLUEuuX8QsQ) 
 
 # 💻 Tech Stack:

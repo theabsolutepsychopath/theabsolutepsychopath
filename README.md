@@ -6,7 +6,8 @@
  <img src="https://img.shields.io/github/last-commit/completepsychopath/practice-bash-scripts"/>
 </div>
 <br/>
-
+<div align="center">
+ <a href="https://completepsychopath.github.io"><strong>completepsychopath.github.io</strong></a>
 
 # 💫 About Me:
 🤖 I’m currently working on Shell Scripting.<br>🤝 I’m looking for help with args and special characters.<br>🌱 I’m currently learning Bash, C#.<br>🕔 I used to code skript with its plugins.

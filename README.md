@@ -22,4 +22,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theabsolutepsychopath&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 📱Contact Me:
 ### [Telegram](https://t.me/theabsolutepsychopath)
-### [Discord](https://discordapp.com/users/885396668974006302) ```rogue psychopath#4668```
+### [Discord](https://discordapp.com/users/885396668974006302) ```@thatpsychopath```

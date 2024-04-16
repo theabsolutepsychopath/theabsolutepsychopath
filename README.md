@@ -2,8 +2,8 @@
  <h1>theabsolutepsychopath</h1>
  <a href="https://ko-fi.com/theabsolutepsychopath" target="_blank"><img alt="" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" style="vertical-align:center" /></a>
  <a href="https://t.me/theabsolutepsychopath" target="_blank"><img alt="" src="https://img.shields.io/badge/telegram-theabsolutepsychopath-informational" style="vertical-align:center" /></a>
- <img src="https://img.shields.io/github/commit-activity/m/theabsolutepsychopath/practice-bash-scripts"/>
- <img src="https://img.shields.io/github/last-commit/theabsolutepsychopath/practice-bash-scripts"/>
+ <img src="https://img.shields.io/github/commit-activity/m/theabsolutepsychopath/ModLink"/>
+ <img src="https://img.shields.io/github/last-commit/theabsolutepsychopath/ModLink"/>
 </div>
 <br/>
 <div align="center">

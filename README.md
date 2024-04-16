@@ -2,8 +2,6 @@
  <h1>theabsolutepsychopath</h1>
  <a href="https://ko-fi.com/theabsolutepsychopath" target="_blank"><img alt="" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" style="vertical-align:center" /></a>
  <a href="https://t.me/theabsolutepsychopath" target="_blank"><img alt="" src="https://img.shields.io/badge/telegram-theabsolutepsychopath-informational" style="vertical-align:center" /></a>
- <img src="https://img.shields.io/github/commit-activity/m/theabsolutepsychopath/ModLink"/>
- <img src="https://img.shields.io/github/last-commit/theabsolutepsychopath/ModLink"/>
 </div>
 <br/>
 <div align="center">
@@ -11,6 +9,10 @@
 
 # 🔧 Current Project:
 ### [ModLink](https://github.com/theabsolutepsychopath/ModLink)
+<div align="center">
+ <img src="https://img.shields.io/github/commit-activity/m/theabsolutepsychopath/ModLink"/>
+ <img src="https://img.shields.io/github/last-commit/theabsolutepsychopath/ModLink"/>
+</div>
 
 # 💻 Tech Stack:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)

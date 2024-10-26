@@ -6,7 +6,7 @@
 <div align="center">
  
 # 🔧 Current Project:
-### [GGLoader (Private)](https://absolutepsycho.com)
+### [GGLoader (Private)](https://github.com/theabsolutepsychopath/)
 
 ## 📱Contact Me:
 ### [Telegram](https://t.me/theabsolutepsychopath)

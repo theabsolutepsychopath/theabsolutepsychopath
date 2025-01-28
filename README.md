@@ -9,4 +9,4 @@
 
 ## 📱Contact Me:
 ### [Telegram](https://t.me/theabsolutepsychopath)
-### [Discord](https://discordapp.com/users/885396668974006302) ```@thatpsychopath```
+### [Discord](https://discordapp.com/users/885396668974006302) ```@theabsolutepsychopath```

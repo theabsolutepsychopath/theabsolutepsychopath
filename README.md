@@ -1,6 +1,5 @@
 <div align="center">
  <h1>theabsolutepsychopath</h1>
- <a href="https://ko-fi.com/theabsolutepsychopath" target="_blank"><img alt="" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" style="vertical-align:center" /></a>
  <a href="https://t.me/theabsolutepsychopath" target="_blank"><img alt="" src="https://img.shields.io/badge/telegram-theabsolutepsychopath-informational" style="vertical-align:center" /></a>
 </div>
 <div align="center">
